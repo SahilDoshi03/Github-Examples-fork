@@ -2,7 +2,7 @@ name: Print Time
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'
 
 jobs:
   hello_world:
